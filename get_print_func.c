@@ -1,8 +1,7 @@
 #include "main.h"
-
 /**
-  *get_print_func - Function
-  *@c: parameter
+  *get_print_func - returns pointer to function.
+  *@c: character to be used to find pointer function.
   *
   *Return: pointer to function or NULL.
   */
